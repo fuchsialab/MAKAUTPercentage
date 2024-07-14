@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MAKAUT GPA to Marks</string>
+
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string name="lkmkm">https://fuchsialabstore.blogspot.com/p/privacy-policy.html</string>
+
+    <string name="jjjj">https://play.google.com/store/apps/details?id=com.fuchsia.directsave</string>
+
+    <string name="bannerid">ca-app-pub-5971905882407874/8946209192</string>
+    <string name="interstitialId">ca-app-pub-5971905882407874/1262960609</string>
+
+<!--    <string name="bannerid">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="interstitialId">ca-app-pub-3940256099942544/1033173712</string>-->
+
+</resources>

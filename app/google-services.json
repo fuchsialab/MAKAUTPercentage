@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890324908240",
+    "project_id": "makaut-29ced",
+    "storage_bucket": "makaut-29ced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890324908240:android:059aa082a5ddeb113246d5",
+        "android_client_info": {
+          "package_name": "com.fuchsia.makautpercentage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890324908240-c9ou9u084c7snqhc54nmr1ilg52mrjri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fuchsia.makautpercentage",
+            "certificate_hash": "c4744223119835ee353ba1cdca2da5aa2da2292a"
+          }
+        },
+        {
+          "client_id": "890324908240-caad3to5smk59ilj70i0io5ledvprt9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbaoO06WjBMUZTBWcwfzboyd9nAYVt-18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890324908240-caad3to5smk59ilj70i0io5ledvprt9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
